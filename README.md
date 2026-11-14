@@ -29,6 +29,13 @@
 <br>
 
 <div align="left">
-  <a href="emailto:sabrina.r.lima100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sabrina-ribeiro-lima" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sabrina.r.lima100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sabrina-ribeiro-lima">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://lattes.cnpq.br/0357000447006530">
+    <img src="https://img.shields.io/badge/Currículo_Lattes-005A9C?style=for-the-badge&logo=academia&logoColor=white" alt="Currículo Lattes" />
+  </a>
 </div>
